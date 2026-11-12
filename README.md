@@ -1,5 +1,7 @@
 # The Pathological Attractor: A Universal Dissipative Systems Framework for Chronic Disease and Curative Remission
 
+Repository: https://github.com/sukuyoshi/The_Pathological_Attractor
+
 This repository provides an open-source (MIT Licensed) implementation of a unified mathematical framework for chronic pathologies across human physiology, modeling disease as the non-equilibrium stabilization of maladaptive immune-tissue states.
 
 ## Theoretical Foundations
